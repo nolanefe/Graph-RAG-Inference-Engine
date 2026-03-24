@@ -18,12 +18,12 @@ A knowledge graph-based RAG engine utilizing Neo4j and LangChain to eliminate LL
 Note: Requires Python 3.10+, an OpenAI API Key, and Neo4j credentials.
 
  ```bash
-1.  Clone the repository
+1.Clone the repository
    git clone [https://github.com/nolanefe/Graph-RAG-Inference-Engine.git](https://github.com/nolanefe/Graph-RAG-Inference-Engine.git)
    cd Graph-RAG-Inference-Engine
    
 
-2.  Run and execute
+2.Run and execute
    pip install -r requirements.txt
    python main.py
    ```
