@@ -1,6 +1,6 @@
 # Graph-RAG-Inference-Engine
 
-A knowledge graph-based RAG engine utilizing Neo4j and LangChain to eliminate LLM hallucinations through structured, deterministic querying.
+The Graph-RAG Inference Engine is a specialized framework designed to solve the reliability issues of standard RAG systems. By integrating Neo4j knowledge graphs with LangChain, the engine moves away from probabilistic vector searches toward structured, deterministic querying. This ensures that every AI-generated insight is grounded in verifiable graph relationships, making it ideal for high-stakes applications like financial modeling and predictive strategy generation.
 
 ### Core Architecture
 * **Knowledge Graph Backend:** Uses Neo4j to store infrastructure relationships as nodes and edges, preventing the AI from guessing connections.
